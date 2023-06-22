@@ -1,0 +1,14 @@
+inputDirectory: input
+outputDirectory: output
+templateDirectory: template
+title: My blog
+ga: 
+theme: JackTheBlogger
+description: 
+additionalItems: 
+additionalFooterLinks: 
+additionalNavLinks: 
+facebook:  https://facebook.com
+twitter:  https://twitter.com
+linkedIn: https://linkedin.com
+email: test@mail.com
