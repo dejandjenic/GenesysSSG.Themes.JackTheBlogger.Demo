@@ -1,1 +1,0 @@
-# GenesysSSG.Themes.JackTheBlogger.Demo
